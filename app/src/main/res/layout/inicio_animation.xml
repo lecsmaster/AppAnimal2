@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/re"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="fill_parent" android:layout_width="fill_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#fff"
+
+    tools:context="lecsinc.appanimal.InicioAnimation">
+
+    <ImageView android:id="@+id/img_logo"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:contentDescription="@string/descripcion_logo"
+        android:background="@drawable/logo"
+        />
+
+</RelativeLayout>

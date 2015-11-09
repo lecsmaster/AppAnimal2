@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AppAnimal</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="title_activity_inicio">Bienvenido!</string>
+
+    <string name="title_section1">Transito</string>
+    <string name="title_section2">Publicar</string>
+    <string name="title_section3">Registro</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="title_activity_transito">Transito</string>
+    <string name="title_activity_publica">Publica la mascota</string>
+
+    <string name="descripcion_logo">Logo principal de appnimal</string>
+    <string name="title_activity_inicio_animation">AppAnimal</string>
+</resources>
